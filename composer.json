@@ -32,7 +32,7 @@
      "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:pepperstone/ivory-google-map.git"
+            "url": "git@github.com:pepperstone/google-map.git"
         }
     ],
     "autoload": {
